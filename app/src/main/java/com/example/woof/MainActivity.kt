@@ -152,7 +152,6 @@ private fun DogItemButton(
     onClick: () -> Unit,
     modifier: Modifier = Modifier
 ) {
-
     IconButton(
         onClick = onClick,
         modifier = modifier
