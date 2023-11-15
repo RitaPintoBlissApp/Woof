@@ -163,7 +163,6 @@ private fun DogItemButton(
             tint = MaterialTheme.colorScheme.secondary
         )
     }
-
 }
 /**
  * Composable that displays a Top Bar with an icon and text.
